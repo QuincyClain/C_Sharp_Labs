@@ -1,0 +1,7 @@
+C:\Users\pesot\source\repos\1st_lab_c_sharp(не доконца пока что)\bin\Debug\1st_lab_c_sharp(не доконца пока что).exe.config
+C:\Users\pesot\source\repos\1st_lab_c_sharp(не доконца пока что)\bin\Debug\1st_lab_c_sharp(не доконца пока что).exe
+C:\Users\pesot\source\repos\1st_lab_c_sharp(не доконца пока что)\bin\Debug\1st_lab_c_sharp(не доконца пока что).pdb
+C:\Users\pesot\source\repos\1st_lab_c_sharp(не доконца пока что)\obj\Debug\1st_lab_c_sharp(не доконца пока что).csprojAssemblyReference.cache
+C:\Users\pesot\source\repos\1st_lab_c_sharp(не доконца пока что)\obj\Debug\1st_lab_c_sharp(не доконца пока что).csproj.CoreCompileInputs.cache
+C:\Users\pesot\source\repos\1st_lab_c_sharp(не доконца пока что)\obj\Debug\1st_lab_c_sharp(не доконца пока что).exe
+C:\Users\pesot\source\repos\1st_lab_c_sharp(не доконца пока что)\obj\Debug\1st_lab_c_sharp(не доконца пока что).pdb
