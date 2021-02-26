@@ -1,0 +1,7 @@
+C:\Users\pesot\Desktop\1st_lab_c_sharp\obj\Debug\1st_lab_c_sharp.csprojAssemblyReference.cache
+C:\Users\pesot\Desktop\1st_lab_c_sharp\obj\Debug\1st_lab_c_sharp.csproj.CoreCompileInputs.cache
+C:\Users\pesot\Desktop\1st_lab_c_sharp\bin\Debug\1st_lab_c_sharp.exe.config
+C:\Users\pesot\Desktop\1st_lab_c_sharp\bin\Debug\1st_lab_c_sharp.exe
+C:\Users\pesot\Desktop\1st_lab_c_sharp\bin\Debug\1st_lab_c_sharp.pdb
+C:\Users\pesot\Desktop\1st_lab_c_sharp\obj\Debug\1st_lab_c_sharp.exe
+C:\Users\pesot\Desktop\1st_lab_c_sharp\obj\Debug\1st_lab_c_sharp.pdb
