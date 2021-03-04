@@ -1,0 +1,13 @@
+C:\Users\37529\OneDrive\Рабочий стол\Си Шарп второй сем\FirstLab\FirstLab\bin\Debug\netcoreapp3.1\FirstLab.exe
+C:\Users\37529\OneDrive\Рабочий стол\Си Шарп второй сем\FirstLab\FirstLab\bin\Debug\netcoreapp3.1\FirstLab.deps.json
+C:\Users\37529\OneDrive\Рабочий стол\Си Шарп второй сем\FirstLab\FirstLab\bin\Debug\netcoreapp3.1\FirstLab.runtimeconfig.json
+C:\Users\37529\OneDrive\Рабочий стол\Си Шарп второй сем\FirstLab\FirstLab\bin\Debug\netcoreapp3.1\FirstLab.runtimeconfig.dev.json
+C:\Users\37529\OneDrive\Рабочий стол\Си Шарп второй сем\FirstLab\FirstLab\bin\Debug\netcoreapp3.1\FirstLab.dll
+C:\Users\37529\OneDrive\Рабочий стол\Си Шарп второй сем\FirstLab\FirstLab\bin\Debug\netcoreapp3.1\FirstLab.pdb
+C:\Users\37529\OneDrive\Рабочий стол\Си Шарп второй сем\FirstLab\FirstLab\obj\Debug\netcoreapp3.1\FirstLab.csprojAssemblyReference.cache
+C:\Users\37529\OneDrive\Рабочий стол\Си Шарп второй сем\FirstLab\FirstLab\obj\Debug\netcoreapp3.1\FirstLab.AssemblyInfoInputs.cache
+C:\Users\37529\OneDrive\Рабочий стол\Си Шарп второй сем\FirstLab\FirstLab\obj\Debug\netcoreapp3.1\FirstLab.AssemblyInfo.cs
+C:\Users\37529\OneDrive\Рабочий стол\Си Шарп второй сем\FirstLab\FirstLab\obj\Debug\netcoreapp3.1\FirstLab.csproj.CoreCompileInputs.cache
+C:\Users\37529\OneDrive\Рабочий стол\Си Шарп второй сем\FirstLab\FirstLab\obj\Debug\netcoreapp3.1\FirstLab.dll
+C:\Users\37529\OneDrive\Рабочий стол\Си Шарп второй сем\FirstLab\FirstLab\obj\Debug\netcoreapp3.1\FirstLab.pdb
+C:\Users\37529\OneDrive\Рабочий стол\Си Шарп второй сем\FirstLab\FirstLab\obj\Debug\netcoreapp3.1\FirstLab.genruntimeconfig.cache
