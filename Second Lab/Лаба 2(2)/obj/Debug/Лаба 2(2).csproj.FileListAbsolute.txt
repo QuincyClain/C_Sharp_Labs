@@ -1,7 +1,0 @@
-C:\Users\pesot\Desktop\Си Шарп\Лаба 2(2)\bin\Debug\Лаба 2(2).exe.config
-C:\Users\pesot\Desktop\Си Шарп\Лаба 2(2)\bin\Debug\Лаба 2(2).exe
-C:\Users\pesot\Desktop\Си Шарп\Лаба 2(2)\bin\Debug\Лаба 2(2).pdb
-C:\Users\pesot\Desktop\Си Шарп\Лаба 2(2)\obj\Debug\Лаба 2(2).csprojAssemblyReference.cache
-C:\Users\pesot\Desktop\Си Шарп\Лаба 2(2)\obj\Debug\Лаба 2(2).csproj.CoreCompileInputs.cache
-C:\Users\pesot\Desktop\Си Шарп\Лаба 2(2)\obj\Debug\Лаба 2(2).exe
-C:\Users\pesot\Desktop\Си Шарп\Лаба 2(2)\obj\Debug\Лаба 2(2).pdb
