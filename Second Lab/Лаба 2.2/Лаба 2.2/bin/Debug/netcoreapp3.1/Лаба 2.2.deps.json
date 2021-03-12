@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Лаба 2.2/1.0.0": {
+        "runtime": {
+          "Лаба 2.2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Лаба 2.2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
