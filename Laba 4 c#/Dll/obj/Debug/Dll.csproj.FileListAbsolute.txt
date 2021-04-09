@@ -1,0 +1,6 @@
+C:\Users\pesot\Desktop\Laba 4 c#\Dll\bin\Debug\Dll.dll
+C:\Users\pesot\Desktop\Laba 4 c#\Dll\bin\Debug\Dll.pdb
+C:\Users\pesot\Desktop\Laba 4 c#\Dll\obj\Debug\Dll.csprojAssemblyReference.cache
+C:\Users\pesot\Desktop\Laba 4 c#\Dll\obj\Debug\Dll.csproj.CoreCompileInputs.cache
+C:\Users\pesot\Desktop\Laba 4 c#\Dll\obj\Debug\Dll.dll
+C:\Users\pesot\Desktop\Laba 4 c#\Dll\obj\Debug\Dll.pdb

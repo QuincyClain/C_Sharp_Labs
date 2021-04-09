@@ -1,0 +1,9 @@
+C:\Users\pesot\Desktop\Laba 4 c#\KeyLogger\bin\Debug\KeyLogger.exe.config
+C:\Users\pesot\Desktop\Laba 4 c#\KeyLogger\bin\Debug\KeyLogger.exe
+C:\Users\pesot\Desktop\Laba 4 c#\KeyLogger\bin\Debug\KeyLogger.pdb
+C:\Users\pesot\Desktop\Laba 4 c#\KeyLogger\obj\Debug\KeyLogger.csprojAssemblyReference.cache
+C:\Users\pesot\Desktop\Laba 4 c#\KeyLogger\obj\Debug\KeyLogger.Properties.Resources.resources
+C:\Users\pesot\Desktop\Laba 4 c#\KeyLogger\obj\Debug\KeyLogger.csproj.GenerateResource.cache
+C:\Users\pesot\Desktop\Laba 4 c#\KeyLogger\obj\Debug\KeyLogger.csproj.CoreCompileInputs.cache
+C:\Users\pesot\Desktop\Laba 4 c#\KeyLogger\obj\Debug\KeyLogger.exe
+C:\Users\pesot\Desktop\Laba 4 c#\KeyLogger\obj\Debug\KeyLogger.pdb
