@@ -1,7 +1,0 @@
-C:\Users\pesot\Desktop\Исправленная 3,5,6\WW\bin\Debug\WW.exe.config
-C:\Users\pesot\Desktop\Исправленная 3,5,6\WW\bin\Debug\WW.exe
-C:\Users\pesot\Desktop\Исправленная 3,5,6\WW\bin\Debug\WW.pdb
-C:\Users\pesot\Desktop\Исправленная 3,5,6\WW\obj\Debug\WW.csprojAssemblyReference.cache
-C:\Users\pesot\Desktop\Исправленная 3,5,6\WW\obj\Debug\WW.csproj.CoreCompileInputs.cache
-C:\Users\pesot\Desktop\Исправленная 3,5,6\WW\obj\Debug\WW.exe
-C:\Users\pesot\Desktop\Исправленная 3,5,6\WW\obj\Debug\WW.pdb
